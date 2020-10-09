@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-09T16:33:01.658Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="RJsTSBiQ7enGl4V-6CRv" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-09T16:41:26.731Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="z8_Yh7IPbcYXt0fi5ViK" version="13.7.9" type="github">
   <diagram id="LghMKdmrHBqI3N-OzH8k" name="Page-1">
-    <mxGraphModel dx="1102" dy="1751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1296" dy="1854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -356,6 +356,27 @@
         </mxCell>
         <mxCell id="Gr1agtvY7iYHn9DsY6er-58" value="1..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="795" y="100" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Gr1agtvY7iYHn9DsY6er-59" value="Factures" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="-50" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Gr1agtvY7iYHn9DsY6er-60" value="Commandes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="180" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Gr1agtvY7iYHn9DsY6er-63" value="Produits" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="100" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Gr1agtvY7iYHn9DsY6er-64" value="Fournisseurs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="554" y="532" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Gr1agtvY7iYHn9DsY6er-65" value="Clients" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="596" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Gr1agtvY7iYHn9DsY6er-66" value="Catalogue" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="757" y="-8" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Gr1agtvY7iYHn9DsY6er-67" value="Produits" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="50" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
